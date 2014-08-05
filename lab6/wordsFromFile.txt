@@ -1,0 +1,4 @@
+Within a file called generators1.py, write a generator, generateMultiples(number, start) that can be configured to generate multiples of number beginning with, and including, start. Instantiate this generator and use it to print multiples of 3, starting with 27, up to, but not including 81.
+This lab asks you to use a few of the tools we've recently discussed in class. The goal is just to help you "Get some dirt under your fingernails".
+Implement a generator, allCaps(wordGenerator) that draws words from wordGenerator, and ensures thata ll letters are capitalized. It should draw only one word from wordgenerator and emit only one word for each request it receives.
+Within a file called coroutines1.py, write a coroutines, capitalize that capitalizes and prints each word it is sent. Instantiate this coroutine, and test it with the phrase, "The quick brown fox jumped over the lazy old dog." 

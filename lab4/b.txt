@@ -1,0 +1,9 @@
+Dawson, Michael, Python Programming, 2010, 1-4354-5500-2
+James, Deragon, Python For Beginner, 2008, 1-3341-6018-6
+Lutz, Mark, Learning Python, 2011, 3-1215-0013-2
+Beazley, David M., Python Essential Reference, 2012, 9-2156-7639-3
+
+Ledgard, Henry F., C Programming, 1996, 3-7810-4211-5
+
+Bloch, Joshua, Effective Java, 2008, 5-1132-0509-6
+Schildt, Herbert, Java: A Beginner's Guilde, 2006, 7-9032-4518-9
